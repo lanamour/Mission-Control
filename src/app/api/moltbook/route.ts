@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 
 export async function GET() {
   try {
-    const apiKey = 'moltbook_sk_EINI8zCvTvNffimGGqa4JdQo8DFOtbOz';
+    const apiKey = '${process.env.MOLTBOOK_API_KEY || ''}';
 
     // Get profile
     const profileRes = await fetch('https://www.moltbook.com/api/v1/agents/me', {

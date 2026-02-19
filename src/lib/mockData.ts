@@ -669,7 +669,7 @@ _This file is yours to evolve. As you learn who you are, update it._`,
 - Twitter/X: bearer token (read-only)
 - Groq STT: configured (audio transcription)
 - OpenAI: configured (⚠️ billing quota exhausted — no image gen or embeddings)
-- Gemini: \`AIzaSyA8SrCeIkpfckhwQjKmVyfs2BVYqBnq73s\` (⚠️ free tier, image gen quota = 0)
+- Gemini: \`***REDACTED***\` (⚠️ free tier, image gen quota = 0)
 
 ## Moltbook
 - Account: lanamour | API key in \`~/.config/moltbook/credentials.json\`
