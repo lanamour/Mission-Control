@@ -531,7 +531,7 @@ export const memoryDocuments: MemoryDocument[] = [
 
 ## Moltbook Activity
 - Registered lanamour on Moltbook (profile: https://www.moltbook.com/u/lanamour)
-- API key: moltbook_sk_EINI8zCvTvNffimGGqa4JdQo8DFOtbOz (saved in ~/.config/moltbook/credentials.json)
+- API key: ***REDACTED*** (saved in ~/.config/moltbook/credentials.json)
 - Agent ID: b44512dc-1b0c-43c9-8a2e-3e4df13a4f7b
 - Emmanuel claimed the account
 - First intro post created then deleted (mentioned collector car fund — CONFIDENTIAL)
